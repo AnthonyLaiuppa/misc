@@ -2,6 +2,7 @@
 
 sudo apt-get update; sudo apt-get upgrade -y
 sudo apt-get install -y vim
+sudo apt-get install -y tmux
 sudo apt-get install -y python-pip
 sudo apt-get install -y nodejs
 sudo apt-get install -y python-dev
