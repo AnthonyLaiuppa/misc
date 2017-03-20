@@ -14,6 +14,7 @@ sudo apt-get install -y mongodb-server
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 
+mv .tmux.conf ~/
 
 echo 'export PIP_REQUIRE_VIRTUALENV=true' > ~/.bash_profile
 echo 'export WORKON_HOME="~/.envs"' >> ~/.bash_profile
