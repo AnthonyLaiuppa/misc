@@ -9,6 +9,7 @@ sudo apt-get install -y python3-dev
 sudo apt-get install -y npm
 sudo apt-get install -y mongodb-org
 sudo apt-get install -y nodejs-legacy
+sudo apt-get install -y mongodb-server
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
 
