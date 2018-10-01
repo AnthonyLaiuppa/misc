@@ -2,7 +2,7 @@
 
 #Linux packages
 sudo apt update; sudo apt upgrade -y 
-sudo apt install vim git python3-dev python3-pip curl steam htop tree 
+sudo apt install vim git python3-dev python3-pip curl steam htop tree virtualbox vagrant unzip 
 
 
 #Python venv stuff
